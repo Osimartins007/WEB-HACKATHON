@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+15:47:33	352/352	---M--	301	error ('Moved%20Permanently')	text/html	date:Sun,%2021%20Jul%202024%2014:48:55%20GMT	https://ui-themez.smartinnovates.net/items/daniels	C:/My%20Web%20Sites/portfolio/ui-themez.smartinnovates.net/items/daniels.0.delayed	(from )
+15:47:36	162/162	---M--	301	error ('Moved%20Permanently')	text/html	date:Sun,%2021%20Jul%202024%2014:48:58%20GMT	http://ui-themez.smartinnovates.net/items/daniels/	C:/My%20Web%20Sites/portfolio/ui-themez.smartinnovates.net/items/daniels/index.html	(from )
+15:47:36	162/162	---M--	301	error ('Moved%20Permanently')	text/html	date:Sun,%2021%20Jul%202024%2014:48:58%20GMT	http://ui-themez.smartinnovates.net/robots.txt		(from )

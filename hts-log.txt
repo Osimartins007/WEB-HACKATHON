@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 21 Jul 2024 15:52:02 at https://ui-themez.smartinnovates.net/items/daniels/main.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" https://ui-themez.smartinnovates.net/items/daniels/main.html -O1 "C:\My Web Sites\portfolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:52:24	Error: 	"Not Found" (404) at link https://ui-themez.smartinnovates.net/items/daniels/fonts/glyphicons-halflings-regular.woff2 (from https://ui-themez.smartinnovates.net/items/daniels/css/bootstrap.min.css)
+15:52:24	Error: 	"Not Found" (404) at link https://ui-themez.smartinnovates.net/items/daniels/fonts/glyphicons-halflings-regular.svg (from https://ui-themez.smartinnovates.net/items/daniels/css/bootstrap.min.css)
+15:52:24	Error: 	"Not Found" (404) at link https://ui-themez.smartinnovates.net/items/daniels/css/owl.video.play.png (from https://ui-themez.smartinnovates.net/items/daniels/css/owl.carousel.min.css)
+15:52:24	Error: 	"Not Found" (404) at link https://ui-themez.smartinnovates.net/items/daniels/fonts/fontawesome-webfont.svg?v=4.7.0 (from https://ui-themez.smartinnovates.net/items/daniels/css/font-awesome.min.css)
+15:52:24	Error: 	"Not Found" (404) at link https://ui-themez.smartinnovates.net/items/daniels/fonts/et-line.svg (from https://ui-themez.smartinnovates.net/items/daniels/css/et-line.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 22 seconds : 58 links scanned, 52 files written (2770159 bytes overall), 53 files updated [2280756 bytes received at 103670 bytes/sec], 1168379 bytes transferred using HTTP compression in 37 files, ratio 38%, 9.6 requests per connection
+(5 errors, 0 warnings, 0 messages)
